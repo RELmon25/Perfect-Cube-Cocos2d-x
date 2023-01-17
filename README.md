@@ -12,4 +12,4 @@ Features:
 * **Settings.**
   * **Mute sound.** You can mute and unmute all sounds.
   * **Light and Dark Mode.** The game restarts with the last selected configuration.
-  * **Tutorial.** Short how to play tutorial.
+  * **Tutorial.** Short 'how to play?' tutorial.
